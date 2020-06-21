@@ -1,0 +1,56 @@
+body{
+  font-family: Montserrat;
+  background-color: #f8e1f4;
+}
+
+span{
+  font-family: Tangerine;
+  font-weight: bold;
+  font-size: 5rem;
+}
+
+/* INTRO DIV */
+.intro-div{
+  background-color: #fff0f5;
+  text-align: center;
+  padding: 15rem;
+}
+.tangerine{
+  font-family: Tangerine;
+}
+.heart{
+  color: #efa8e4;
+}
+
+/* INFO DIV */
+.info-div{
+  text-align: center;
+  padding: 7.5rem;
+}
+
+/* SONGS DIV */
+.musiv{
+  color: black;
+}
+.songs-div{
+  background-color: #97e5ef;
+  text-align: center;
+  padding: 7.5rem;
+}
+.i-love-you{
+  font-size: 10rem;
+}
+
+/* ASKING OUT */
+.asking-out{
+  text-align: center;
+  padding: 10rem;
+  background-color: #efa8e4;
+}
+.buttons{
+  margin: 2rem;
+  font-size: 5rem;
+}
+.big-font{
+  font-size: 5rem;
+}
